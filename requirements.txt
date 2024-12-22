@@ -1,0 +1,11 @@
+Flask==2.3.3               # Core web framework
+Flask-WTF==1.1.1           # For working with forms
+Flask-SQLAlchemy==3.0.5    # For database integration
+Flask-Migrate==4.0.4       # For database migrations
+Flask-Bcrypt==1.0.1        # For password hashing
+Flask-Login==0.6.3         # For user authentication
+requests==2.31.0           # For making HTTP requests
+python-dotenv==1.0.0
+Flask-RESTful==0.3.10
+Flask-Mail==0.9.1
+pytest==7.4.0
